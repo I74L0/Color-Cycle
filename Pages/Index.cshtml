@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<main>
+    <div>
+        <div class="box"></div>
+    </div>
+    <div class="control">
+        <h2>Control Panel</h2>
+        <div class="inputs">
+            <div>
+                <label for="red">Red</label><br>
+                <input type="text" id="red" value="00">
+            </div>
+            <div>
+                <label for="red_incr">Increment Value</label><br>
+                <input type="text" id="red_incr" value="0">
+            </div>
+        </div>
+        <div class="inputs">
+            <div>
+                <label for="green">Green</label><br>
+                <input type="text" id="green" value="00">
+            </div>
+            <div>
+                <label for="green_incr">Increment Value</label><br>
+                <input type="text" id="green_incr" value="0">
+            </div>
+        </div>
+        <div class="inputs">
+            <div>
+                <label for="blue">Blue</label><br>
+                <input type="text" id="blue" value="00">
+            </div>
+            <div>
+                <label for="blue_incr">Increment Value</label><br>
+                <input type="text" id="blue_incr" value="0">
+            </div>
+        </div>
+        <div>
+            <label for="color">Color</label><br>
+            <input type="text" id="color" value="#000000" readonly>
+        </div>
+        <div>
+            <button id="button">Start</button>
+        </div>
+    </div>
+</main>

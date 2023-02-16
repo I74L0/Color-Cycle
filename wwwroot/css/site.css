@@ -1,0 +1,49 @@
+:root {
+  --box-color: #fff;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 100%;
+}
+
+main {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+main>div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  height: 70%;
+  width: 70%;
+  margin: auto;
+  border: 1px solid #000;
+  background-color: var(--box-color);
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.inputs {
+  display: flex;
+  gap: 2rem;
+}
+
+.inputs input {
+  padding: 0 5px;
+}
