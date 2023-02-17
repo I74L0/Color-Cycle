@@ -27,7 +27,7 @@
             </div>
             <div>
                 <label for="green_incr">Increment Value</label><br>
-                <input type="number" id="green_incr" value="0">
+                <input type="number" id="green_incr" value="1">
             </div>
         </div>
         <div class="inputs">
@@ -37,12 +37,19 @@
             </div>
             <div>
                 <label for="blue_incr">Increment Value</label><br>
-                <input type="number" id="blue_incr" value="0">
+                <input type="number" id="blue_incr" value="1">
             </div>
         </div>
-        <div>
-            <label for="color">Color</label><br>
-            <input type="text" id="color" value="#ffffff" readonly>
+        <hr>
+        <div class="inputs">
+            <div>
+                <label for="color">Color</label><br>
+                <input type="text" id="color" value="#ffffff" readonly>
+            </div>
+            <div>
+                <label for="interval">Interval (in ms)</label><br>
+                <input type="number" id="interval" value="250">
+            </div>
         </div>
         <div>
             <button id="button">Start</button>

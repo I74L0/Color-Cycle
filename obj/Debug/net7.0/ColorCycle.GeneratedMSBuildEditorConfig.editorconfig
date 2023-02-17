@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ColorCycle
 build_property.RootNamespace = ColorCycle
-build_property.ProjectDir = c:\wamp64\www\Projects\ColorCycle\
+build_property.ProjectDir = C:\wamp64\www\Projects\ColorCycle\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\wamp64\www\Projects\ColorCycle
+build_property.MSBuildProjectDirectory = C:\wamp64\www\Projects\ColorCycle
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/wamp64/www/Projects/ColorCycle/Pages/Index.cshtml]
+[C:/wamp64/www/Projects/ColorCycle/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/wamp64/www/Projects/ColorCycle/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/wamp64/www/Projects/ColorCycle/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/wamp64/www/Projects/ColorCycle/Pages/_ViewImports.cshtml]
+[C:/wamp64/www/Projects/ColorCycle/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/wamp64/www/Projects/ColorCycle/Pages/_ViewStart.cshtml]
+[C:/wamp64/www/Projects/ColorCycle/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/wamp64/www/Projects/ColorCycle/Pages/Shared/_Layout.cshtml]
+[C:/wamp64/www/Projects/ColorCycle/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c6orfbg5ra

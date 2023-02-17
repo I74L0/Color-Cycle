@@ -39,11 +39,29 @@ main>div {
   justify-content: space-evenly;
 }
 
+h2 {
+  font-size: 3vw;
+}
+
 .inputs {
   display: flex;
   gap: 2rem;
+  font-size: 1.5vw;
 }
 
 .inputs input {
   padding: 0 5px;
+}
+
+hr {
+  height: 0.3vh !important;
+  width: 35vw;
+  margin: 0;
+}
+
+#button {
+  padding: 1vh 2vw;
+  border: 0.2vw solid black;
+  border-radius: 2vw;
+  font-size: 1.5vw;
 }
